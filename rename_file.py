@@ -2,7 +2,7 @@
 
 import os
 
-
+#Add your folder path here
 folder = r'C:/Users/kfgwo/Music/Anime running'
 
 for file_name in os.listdir(folder):
@@ -15,6 +15,7 @@ for file_name in os.listdir(folder):
 
   
   print(change)
+
 
 
 
