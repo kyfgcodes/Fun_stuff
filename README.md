@@ -1,2 +1,2 @@
 # Fun_stuff
-Fun little projects or silly stuff
+Fun little projects or useful programs
